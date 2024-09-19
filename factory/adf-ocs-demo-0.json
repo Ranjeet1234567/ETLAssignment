@@ -1,0 +1,9 @@
+{
+	"name": "adf-ocs-demo-0",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "76e5081e-21c2-4d8b-9a6f-ed77f2fba6c6",
+		"tenantId": "a45fe71a-f480-4e42-ad5e-aff33165aa35"
+	}
+}
